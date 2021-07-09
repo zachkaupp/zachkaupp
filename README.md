@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I don't really use github **super** often, pretty much all my repositories are private too
+
+I mostly just use python but I have experience with a variety of different languages

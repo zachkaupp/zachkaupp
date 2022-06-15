@@ -1,4 +1,4 @@
-### Hi there 👋
+### hey :)
 
 <!--
 **zachkaupp/zachkaupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I don't really use github **super** often, pretty much all my repositories are private too
+most of my repos are private, sry :(
 
-I mostly just use python but I have experience with a variety of different languages
+i'm familiar with python, and more recently R, and i've written some lines in some other major languages too
